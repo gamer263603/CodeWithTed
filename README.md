@@ -68,7 +68,10 @@ Break → Analyze → Secure → Repeat
 + Performed network analysis and packet inspection
 + Identified vulnerabilities in test environments
 + Worked extensively with Linux systems
-+ Comfortable Much With CLI(Command Line) Terminals 
++ Comfortable Much With CLI(Command Line) Terminals
++ Built FullStack Websites Fully Functional
++ AI Intergrations
++ Created Jarvis Like System(Still Developing) 
 ```
 
 ---
@@ -128,13 +131,14 @@ CGPA: 8.43
 ## ⚡ SYSTEM METRICS
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gamer263603&theme=tokyonight&hide_border=true" />
 </p>
 
 ```bash
 Cybersecurity   ███████░░░ 70%
 Python          ████████░░ 80%
 Networking      ██████░░░░ 60%
+Website Development████████████░░░░ 90%
 ```
 
 ---
