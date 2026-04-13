@@ -89,6 +89,11 @@ CGPA: 8.43
 <p align="center" style:width=90;>
   <a href="https://revelebyte-ai.vercel.app">
     <img src="https://yfjyiztsxohpnfgbgxsm.supabase.co/storage/v1/object/public/icons/revelebyte_main_icon.png" alt="Revelebyte">
+    
+</a>
+
+<a href="https://revelebyte-ai-study-mate.vercel.app">
+    <img src="https://bwzfibfqkkwsybebpgxr.supabase.co/storage/v1/object/public/Logos/REV_LOGO.png" alt="Revelebyte Study Mate">
 </a>
 
 </p>
@@ -99,6 +104,8 @@ CGPA: 8.43
 > Password Cracker (Wordlist Based)
 > Network Sniffer
 > Security Automation Tools
+> Revelebyte AI Study Mate
+> Revelebyte AI
 ```
 
 ---
@@ -110,6 +117,7 @@ CGPA: 8.43
 > Building real-world security tools
 > Learning advanced exploitation
 > Contributing to open-source security
+> Learning More
 ```
 
 ---
