@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&height=60&lines=TED+CHENHAKA;CYBER+OPERATIVE;ETHICAL+HACKER" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&height=60&lines=CODE+WITH+TED;CYBER+OPERATIVE;ETHICAL+HACKER" />
 </div>
 
 ---
