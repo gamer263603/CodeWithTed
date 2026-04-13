@@ -1,126 +1,147 @@
-# 🧠 TED CHENHAKA — CYBERSECURITY PORTFOLIO
+<!-- FUTURISTIC HEADER -->
 
-```bash
-> Initializing profile...
-> Loading threat intelligence...
-> Access granted ✅
-```
-
-## 👨‍💻 About Me
-
-```yaml
-Name: Tinofara Ted Chenhaka
-Role: Cybersecurity Enthusiast | Python Developer
-Focus: Ethical Hacking | Network Security | Automation
-Status: Learning. Building. Breaking. Securing.
-```
-
-I’m a passionate cybersecurity learner with hands-on experience in **Python scripting, vulnerability analysis, and system security**.
-I enjoy identifying weaknesses, building secure systems, and continuously improving my hacking & defensive skills.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&lines=Initializing+Cyber+Profile...;Ted+Chenhaka+%7C+Cybersecurity+Enthusiast;Ethical+Hacker+%7C+Python+Developer;Securing+the+Digital+World+🔐" />
+</p>
 
 ---
 
-## ⚔️ Skills & Arsenal
+<h1 align="center">⚡ CYBERSECURITY PORTFOLIO ⚡</h1>
 
-### 🧠 Core Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff9c?style=for-the-badge&logo=hackthebox&logoColor=black">
+  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-0affff?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ROLE-ETHICAL_HACKER-ff00ff?style=for-the-badge">
+</p>
 
-* Penetration Testing
-* Vulnerability Assessment
-* Network Security
-* Ethical Hacking
-* Problem Solving
+---
 
-### 🛠️ Tools & Tech
+## 🧠 ABOUT ME
 
 ```bash
-Languages: Python
-Security: Kali Linux, Nmap, Wireshark
-Concepts: Cryptography, Networking, System Security
-Other: Automation Scripts, Debugging
+> whoami
+Tinofara Ted Chenhaka
+
+> role
+Cybersecurity Enthusiast | Python Developer
+
+> mission
+Break → Analyze → Secure → Repeat
+```
+
+💻 Passionate about **ethical hacking, network security, and automation**
+⚡ Building tools, finding vulnerabilities, and learning real-world attack & defense
+
+---
+
+## ⚔️ CYBER ARSENAL
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,git" />
+</p>
+
+```bash
+[ CORE SKILLS ]
+> Penetration Testing
+> Vulnerability Assessment
+> Network Security
+> Ethical Hacking
+
+[ TOOLS ]
+> Kali Linux
+> Nmap
+> Wireshark
+
+[ KNOWLEDGE ]
+> Cryptography
+> Networking
+> System Security
 ```
 
 ---
 
-## 🧪 Experience
+## 🧪 EXPERIENCE LOG
 
 ```diff
-+ Automated routine tasks using Python
-+ Analyzed network traffic & detected vulnerabilities
-+ Built scripts to improve efficiency and security
-+ Gained hands-on experience in Linux environments
++ Automated tasks using Python scripts
++ Performed network analysis and packet inspection
++ Identified vulnerabilities in test environments
++ Worked extensively with Linux systems
 ```
 
 ---
 
-## 🎓 Education
+## 🎓 EDUCATION
 
 ```yaml
+University: Lovely Professional University
 Program: Computer Science & Engineering
-Institution: Lovely Professional University
 Year: 2024 - Present
 CGPA: 8.43
 ```
 
 ---
 
-## 📜 Certifications
+## 🚀 LIVE PROJECTS
 
-* Cybersecurity Fundamentals
-* Python Programming
-* Network Security Basics
-* Ethical Hacking Essentials
-
----
-
-## 🚀 Current Mission
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ```bash
-> Improving penetration testing skills
-> Building real-world cybersecurity tools
-> Learning advanced exploitation techniques
-> Contributing to security-focused projects
+[ DEPLOYING SOON... ]
+> Vulnerability Scanner
+> Password Cracker (Wordlist Based)
+> Network Sniffer
+> Security Automation Tools
 ```
 
 ---
 
-## 📡 Projects (Coming Online...)
+## 📡 CURRENT OBJECTIVE
 
 ```bash
-[+] Vulnerability Scanner
-[+] Password Cracker (Wordlist Based)
-[+] Network Sniffer
-[+] Automation Security Tools
+> Mastering penetration testing
+> Building real-world security tools
+> Learning advanced exploitation
+> Contributing to open-source security
 ```
 
 ---
 
-## 📫 Contact
+## ⚡ SYSTEM METRICS
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+```bash
+Cybersecurity   ███████░░░ 70%
+Python          ████████░░ 80%
+Networking      ██████░░░░ 60%
+```
+
+---
+
+## 📫 CONTACT NODE
 
 ```yaml
-Phone: +91 XXXXXXXX
 Email: tedchenhaka@gmail.com
 Location: India
 ```
 
 ---
 
-## ⚡ System Status
+## 🧬 PHILOSOPHY
 
 ```bash
-Cybersecurity Skill Level: ███████░░░ 70%
-Python Development:       ████████░░ 80%
-Networking Knowledge:     ██████░░░░ 60%
-```
-
----
-
-## 🧬 Philosophy
-
 > "Hack to understand. Secure to protect."
+```
 
 ---
 
-```bash
-> End of transmission...
-> Stay secure 🔐
-```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0affff&height=120&section=footer"/>
+</p>
+
+<!-- END -->
