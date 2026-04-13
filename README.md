@@ -86,7 +86,7 @@ CGPA: 8.43
 
 ## 🚀 LIVE PROJECTS
 
-<p align="center">
+<p align="center" style:width=90;>
   <a href="https://revelebyte-ai.vercel.app">
     <img src="https://yfjyiztsxohpnfgbgxsm.supabase.co/storage/v1/object/public/icons/revelebyte_main_icon.png" alt="Revelebyte">
 </a>
