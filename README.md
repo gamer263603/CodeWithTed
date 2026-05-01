@@ -51,6 +51,7 @@ Break → Analyze → Secure → Repeat
 > Nmap
 > Wireshark
 > FrostyBomber
+> FrostyCracker
 > ManyMore
 
 [ KNOWLEDGE ]
@@ -81,7 +82,7 @@ Break → Analyze → Secure → Repeat
 ```yaml
 University: Lovely Professional University
 Program: Computer Science & Engineering || Cyber Security 
-Year: 2024 - Present
+Year: 2023 - Present
 CGPA: 9.43
 ```
 
